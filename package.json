@@ -1,7 +1,7 @@
 {
   "name": "corneh tc",
   "version": "1.0.0",
-  "description": "Corneh tc on Render",
+  "description": express-hello-world on Render",
   "main": "app.js",
   "repository": "https://github.com/corneh56-4/Corneh-tech",
   "author": "Corneh tech",
